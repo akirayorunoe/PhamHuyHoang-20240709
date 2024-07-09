@@ -1,0 +1,26 @@
+:root {
+  --black: #242324;
+  --white: #efebf2;
+  --red: #f53b3b;
+  --green: #31cc5a;
+}
+body {
+  margin: 0;
+  background-color: var(--white);
+  color: var(--black);
+}
+
+.wrapper-green {
+  border: 2px solid var(--green);
+  border-radius: 16px;
+  padding: 8px;
+  width: fit-content;
+  color: var(--green);
+}
+.wrapper-red {
+  border: 2px solid var(--red);
+  border-radius: 16px;
+  padding: 8px;
+  width: fit-content;
+  color: var(--red);
+}

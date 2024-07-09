@@ -1,0 +1,13 @@
+/backend/.vscode
+/backend/node_modules
+/backend/dist
+/backend/.prettierrc
+/backend/bun.lockb
+/frontend/.vscode
+/frontend/node_modules
+/frontend/bun.lockb
+/frontend/.prettierrc
+/frontend/.gitignore
+/frontend/dist
+/backend/.gitignore
+bun.lockb
