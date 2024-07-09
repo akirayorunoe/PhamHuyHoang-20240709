@@ -63,13 +63,7 @@ A basic Coin Tracker app that can:
 Clone the project
 
 ```bash
-  git clone https://link-to-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
+  git clone https://github.com/akirayorunoe/PhamHuyHoang-20240709.git
 ```
 
 Running docker-compose
