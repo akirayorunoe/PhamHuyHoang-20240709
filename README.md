@@ -1,6 +1,6 @@
 # Coin Tracker
 
-A basic Coin Tracker app that can:
+A basic Coin Tracker app
 
 ## Features
 
@@ -66,10 +66,16 @@ Clone the project
   git clone https://github.com/akirayorunoe/PhamHuyHoang-20240709.git
 ```
 
+Go to the project directory
+
+```bash
+  cd PhamHuyHoang-20240709
+```
+
 Running docker-compose
 
 ```bash
-  docker-compose up -d
+  docker-compose up --build
 ```
 
 Frontend will start at
