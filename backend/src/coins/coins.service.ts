@@ -11,12 +11,6 @@ export class CoinsService {
 
   constructor(private readonly httpService: HttpService) {}
 
-  // searchCoin(query: string) {
-  //   return this.httpService
-  //     .get(`${this.API_URL}/search?query=${query}`)
-  //     .pipe(map((response: { data: SearchCoinData }) => response.data));
-  // }
-
   getTrendingCoins() {
     return this.httpService
       .get(`${this.API_URL}/search/trending`)

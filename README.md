@@ -7,13 +7,13 @@ A basic Coin Tracker app that can:
 - Show trending coins on hover
 - Search coins
 - View coin statistic
-- View coin price chart & OHLC chart by range (currently: 7 days, 14 days, 30 days)
+- On coin click: View coin price chart & OHLC chart by range (currently: 7 days, 14 days, 30 days)
 
 ## Tech Stack
 
 **Client:** Vite, React, MUI, Typescript
 
-**Server:** NestJS, Axios, [Coingekko](https://docs.coingecko.com/v3.0.1/reference/coins-list) public API
+**Server:** NestJS, Axios, Typescript, [Coingekko](https://docs.coingecko.com/v3.0.1/reference/coins-list) public API
 
 ## API Reference
 
